@@ -1,6 +1,6 @@
 [![Banner Image](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://github.com/NinjaCoder0011)
 <h1 align="center">Hi 👋, I'm Aryan, a passionate software engineer with expertise in Full stack development. I love building innovative solutions and enjoy tackling complex problems. This is my GitHub profile where I showcase my projects, contributions, and collaborations.</h1>
-<h3 align="center">A passionate Full stack development from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
